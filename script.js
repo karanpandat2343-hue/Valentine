@@ -1,9 +1,9 @@
 const messages = [
   "No",
-  "Are you sure?",
-  "Think again 😢",
+  "maan jao na 😭?",
+  "sari baat manunga lunga tumhari",
   "Pleaseeee 🥺",
-  "Pookie please...",
+  "momos bhi khilaunga roj ...",
   "Last chance 😭"
 ];
 
