@@ -1,7 +1,7 @@
 const messages = [
   "No",
   "maan jao na 😭?",
-  "sari baat manunga lunga tumhari",
+  "sari baat manunga  tumhari",
   "Pleaseeee 🥺",
   "momos bhi khilaunga roj ...",
   "Last chance 😭"
